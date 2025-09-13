@@ -48,6 +48,10 @@
         {
           "type": "category",
           "label": "Deployment",
+          "link": {
+            "type": "doc",
+            "id": "setup/index"
+          },
           "items": [
             {
               "type": "category",
@@ -149,6 +153,8 @@
         "build-with-ai/overview",
         "build-with-ai/generate-applications",
         "build-with-ai/ai-docs-assistant",
+        "build-with-ai/debug-components",
+        "build-with-ai/ai-credits",
         "build-with-ai/tooljet-mcp"
       ]
     },
@@ -496,9 +502,11 @@
                 "marketplace/plugins/marketplace-plugin-azurerepos",
                 "marketplace/plugins/marketplace-plugin-clickup",
                 "marketplace/plugins/marketplace-plugin-cohere",
+                "marketplace/plugins/marketplace-plugin-easypost",
                 "marketplace/plugins/marketplace-plugin-engagespot",
                 "marketplace/plugins/marketplace-plugin-gemini",
                 "marketplace/plugins/marketplace-plugin-github",
+                "marketplace/plugins/marketplace-plugin-gmail",
                 "marketplace/plugins/marketplace-plugin-googlecalendar",
                 "marketplace/plugins/marketplace-plugin-spanner",
                 "marketplace/plugins/marketplace-plugin-harperdb",
